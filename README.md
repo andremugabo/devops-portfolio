@@ -1,8 +1,5 @@
 # devops-portfolio
-Here’s your **final `README.md`** for the **Portfolio project** (frontend Dockerized, backend ready for future setup):
-
 ---
-
 # **Portfolio Project**
 
 This project is a **React-based Portfolio Frontend** with Docker support.
