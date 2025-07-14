@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  frontend:
+    build:
+      context: ./frontend
+    container_name: portfolio-frontend
+    ports:
+      - "3001:80" 
+    restart: always
